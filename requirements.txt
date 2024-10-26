@@ -1,13 +1,11 @@
 requests
 scrapy
+numpy
 pandas
 colorama
 datetime
 yfinance
 psycopg2-binary
 python-dotenv
-watchdog
-flask
 redis
-psutil
 scrapy-cloudflare-middleware

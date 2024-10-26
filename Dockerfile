@@ -8,6 +8,7 @@ WORKDIR /app
 COPY . /app
 
 # Installer les dépendances
+RUN pip install cmake
 RUN pip install --no-cache-dir -r requirements.txt
 RUN pip install urllib3==1.26.5
 RUN pip install --upgrade cfscrape
