@@ -1,0 +1,13 @@
+scrapy.cfg
+wallet_api/__pycache__/
+wallet_api/spiders/__pycache__/
+toProcess/
+notes.md
+processed/
+config.json
+sol_price_cache.json
+__pycache__/
+.env
+addresses_to_process.txt
+import_redis.py
+lancer.py
