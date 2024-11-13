@@ -11,3 +11,4 @@ __pycache__/
 addresses_to_process.txt
 import_redis.py
 lancer.py
+models/
