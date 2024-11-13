@@ -298,7 +298,7 @@ class MetricsCalculator:
                 'analysis_time': 0.0,
                 'transactions_analyzed': 0
             }
-
+ 
     def save_metrics_to_file(self, address: str, metrics: Dict[str, Any]) -> None:
         """
         Sauvegarde les métriques calculées dans un fichier
